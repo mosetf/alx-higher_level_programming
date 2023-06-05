@@ -1,1 +1,1 @@
-this repository contains higher level projects
+0x00. Python - Hello, World
