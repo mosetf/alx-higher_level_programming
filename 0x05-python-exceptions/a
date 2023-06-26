@@ -1,0 +1,4 @@
+chmod u+x *.py
+git add .
+git commit -m "readme file"
+git push
