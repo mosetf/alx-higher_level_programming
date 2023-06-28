@@ -1,11 +1,11 @@
 #!/usr/bin/python3
-""" class Square """
+"""class Square"""
 
 
 class Square:
-    """ class Square 
+    """ Square class defined
         Attributes:
-            size (int): square size 
+            size (int): Size of square
             position (tuple): position of space and new lines
     """
     def __init__(self, size=0, position=(0, 0)):
@@ -51,7 +51,7 @@ class Square:
     @property
     def position(self):
         """
-        get postion attribute
+        Position attribute
         """
         return self.__position
 
@@ -96,7 +96,8 @@ class Square:
 
     def __str__(self):
         """
-        printing behavior
+        printing behavior you know 🖨️
+        This code does not work as intended 😂😂💔👨‍🦯
         """
         if self.__size == 0:
             return ''
