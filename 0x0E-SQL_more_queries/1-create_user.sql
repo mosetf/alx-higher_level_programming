@@ -1,0 +1,2 @@
+-- creates the MySQL server user user_0d_1
+-- gives user_0d_1 all privilages
